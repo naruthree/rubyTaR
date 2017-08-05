@@ -1,3 +1,5 @@
+# オプション変数の使い方忘れてしまったので
+
 def method1(one, two, three, **args)
   puts "#{one}"
   puts "#{two}"
